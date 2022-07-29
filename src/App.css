@@ -22,6 +22,15 @@ code {
   font-family: 'Open Sans', sans-serif;
   font-style:italic;
 }
+
+#creator{
+  text-align: center;
+}
+
+#creator a{
+  color: #b67908;
+}
+
 .container{
   display: flex;
   justify-content:flex-start;

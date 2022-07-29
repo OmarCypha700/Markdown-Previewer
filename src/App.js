@@ -80,6 +80,12 @@ class App extends Component {
     return (
       <div>
         <h1 id="title">Markdown Previewer</h1>
+        <p id="creator">by  
+        <a 
+        href="https://github.com/OmarCypha700" 
+        target='_blank' 
+        rel='noreferrer'> OmarCypha</a>
+        </p>
       
         <div className="container">
       <div className="editor">
